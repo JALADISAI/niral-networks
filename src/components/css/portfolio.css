@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin: 90px;
+}
+.sub{
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+.btn{
+ 
+    color: green;
+    margin: 80px;
+    padding: 10px;
+
+}
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+
+ th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  tr {
+    line-height: 4;
+  }
+  .heading-wrapper h2, .heading-wrapper button {
+    display: inline-block;
+  }
